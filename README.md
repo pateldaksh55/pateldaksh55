@@ -1,7 +1,7 @@
-👋 Hi there, I'm Daksh Patel!
-🎓 B.Tech IT Student at Parul Institute of Engineering and Technology (2022–2026)
-📍 Based in Vadodara, Gujarat, India
-📱 Passionate Android Developer | 💻 Web Developer | 🤖 AI/ML Enthusiast
+👋 Hi there, I'm Daksh Patel!<br>
+🎓 B.Tech IT Student at Parul Institute of Engineering and Technology (2022–2026)<br>
+📍 Based in Vadodara, Gujarat, India<br>
+📱 Passionate Android Developer | 💻 Web Developer | 🤖 AI/ML Enthusiast<br>
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daksh-patel-a4a631266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patel.daksh.7792@gmail.com) 
 
